@@ -1,0 +1,21 @@
+h2{ color: rgb(47, 15, 189);}
+
+body{
+    font-family: Arial , Helvetica, sans-serif;
+    font-size: 25;
+}
+a:link, a:visited{
+    color: #ff5e00;
+    text-decoration: none;
+    
+}
+a:hover{
+    text-decoration: underline
+    }
+
+#wrap{
+    width: 600px;
+    margin: auto;
+    padding: 10px 100px;
+    
+}
